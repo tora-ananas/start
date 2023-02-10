@@ -29,6 +29,7 @@ And then read Swift Language Guide:
 ```
 https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html
 ```
+
 ## Authors
 
 * **Anastasia Tarasova** - *Initial work* - [tora-ananas](https://github.com/tora-ananas)
@@ -40,4 +41,3 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Acknowledgments
 
 * Inspiration and mentor: Andrey Krasnov
-
