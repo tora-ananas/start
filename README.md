@@ -1,6 +1,7 @@
 # Project Title
 
 My first project called START. We are started here and begin to learn iOS development.
+We add some string there! 
 
 ## Getting Started
 
