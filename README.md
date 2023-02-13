@@ -1,6 +1,7 @@
 # Project Title
 
 My first project called START. We are started here and begin to learn iOS development.
+We add some string there!
 
 ## Getting Started
 
@@ -41,3 +42,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Acknowledgments
 
 * Inspiration and mentor: Andrey Krasnov
+
+GOOD LUCK!
